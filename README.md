@@ -4,8 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Times+New+Roman&weight=200&duration=6000&pause=1500&color=000000&random=false&width=435&lines=I'm+antenna%2Ftelecommunation+reaseacher;And+actually+I+have+worked+with;Microstrip+Pacth+Antenna)](https://git.io/typing-svg)
 
-<img src="https://cdn.comsol.com/wordpress/2016/10/microstrip_patch_antenna.png" height="100"/>
-<img src="https://cdn.comsol.com/wordpress/2016/10/slot-coupled-microstrip-patch-antenna-array-synthesizer-COMSOL.png" height="100"/>
+<img src="https://cdn.comsol.com/wordpress/2016/10/microstrip_patch_antenna.png" height="100"/><img src="https://cdn.comsol.com/wordpress/2016/10/slot-coupled-microstrip-patch-antenna-array-synthesizer-COMSOL.png" height="100"/>
   
 ### 📘 Programming Languages and useful libraries
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
