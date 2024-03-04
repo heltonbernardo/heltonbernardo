@@ -14,8 +14,8 @@
 I’m currently on Machine Learning Tools for use in my antennas, RF devices and another methods.
 ### 🔥 My activities and works done
 [![GitHub Streak](https://streak-stats.demolab.com?user=heltonbernardo&theme=transparent&border_radius=4)](https://git.io/streak-stats)
-### 📫 Reach me by
-helton.bernardo@unesp.br
+### 📫 Reach me
+[![helton.bernardo@unesp.br](https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:helton.bernardo@unesp.br)
 
 <!---
 heltonbernardo/heltonbernardo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
