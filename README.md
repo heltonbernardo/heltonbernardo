@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Times+New+Roman&weight=200&duration=6000&pause=1500&color=000000&random=false&width=435&lines=I'm+antenna%2Ftelecommunation+reaseacher;And+actually+I+have+worked+with;Microstrip+Pacth+Antenna)](https://git.io/typing-svg)
 
 ![mpa_behavior_svg](https://github.com/heltonbernardo/heltonbernardo/assets/161172047/be9cf3eb-a954-4db1-867c-191465fd2a5b)
-![](https://itelite.net/wp-content/uploads/2020/05/horn-e-field-p2.gif)
+![](<img src="https://itelite.net/wp-content/uploads/2020/05/horn-e-field-p2.gif" width="100" height="100">)
   
 ### 📘 Programming Languages and useful libraries
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
