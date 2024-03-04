@@ -4,8 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Times+New+Roman&weight=200&duration=6000&pause=1500&color=000000&random=false&width=435&lines=I'm+antenna%2Ftelecommunation+reaseacher;And+actually+I+have+worked+with;Microstrip+Pacth+Antenna)](https://git.io/typing-svg)
 
-<img src="![image](https://github.com/heltonbernardo/heltonbernardo/assets/161172047/e49b176c-609f-4881-bfc1-407dbb2a8392)
-" width="300" height="200" />
+<img src="https://cdn.comsol.com/wordpress/2016/10/microstrip_patch_antenna.png" height="200"/>
 <img src="https://cdn.comsol.com/wordpress/2016/10/slot-coupled-microstrip-patch-antenna-array-synthesizer-COMSOL.png" height="200"/>
   
 ### 📘 Programming Languages and useful libraries
