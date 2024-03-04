@@ -8,6 +8,15 @@
   
 ### 📘 Programming Languages
 I love to write python code scripts on the context base-study.
+
+| Linguagem     | Exemplo                                   |
+|---------------|-------------------------------------------|
+| Python        | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) `print("Hello, world!")` |
+| JavaScript    | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) `console.log("Hello, world!");` |
+| Java          | ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) `System.out.println("Hello, world!");` |
+| C++           | ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) `std::cout << "Hello, world!" << std::endl;` |
+
+
 ### 🌱 What's my interests?
 I’m currently on Machine Learning Tools for use in my antennas, RF devices and another methods.
 ### 🔥 My activities and works done
