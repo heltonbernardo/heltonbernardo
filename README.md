@@ -7,14 +7,7 @@
 ![mpa_behavior_svg](https://github.com/heltonbernardo/heltonbernardo/assets/161172047/be9cf3eb-a954-4db1-867c-191465fd2a5b)
   
 ### 📘 Programming Languages
-I love to write python code scripts on the context base-study.
-
-| Linguagem     | Exemplo                                   |
-|---------------|-------------------------------------------|
-| Python        | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) `print("Hello, world!")` |
-| JavaScript    | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) `console.log("Hello, world!");` |
-| Java          | ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) `System.out.println("Hello, world!");` |
-| C++           | ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) `std::cout << "Hello, world!" << std::endl;` |
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 
 ### 🌱 What's my interests?
